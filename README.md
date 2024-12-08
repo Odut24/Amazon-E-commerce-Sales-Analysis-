@@ -1,4 +1,4 @@
-# Amazon-E-commerce-Sales-Analysis-
+# Amazon-E-commerce-Sales-Analysis
 This project analyzes the impact of ratings and discounts on product performance. It explores trends in customer ratings, discount strategies, and their influence on sales, providing insights into optimizing pricing and improving customer satisfaction.
 
 ![](https://github.com/Odut24/Amazon-E-commerce-Sales-Analysis-/blob/main/Amazon.PNG)
